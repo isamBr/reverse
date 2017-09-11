@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App4"
+             x:Class="App4.MainPage">
+
+    <StackLayout>
+        <Label Text="Please enter a string no more than 10 characters" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+        <Entry x:Name="MainEntry" 
+               Text=""
+               Placeholder="xxxxxxxxxx"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"
+                />
+        <Entry x:Name="ResultInput"
+               Text=""
+               Placeholder="___________"
+               IsEnabled="false" 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"
+                />
+        <Button Text="Reverse"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="Center"
+                Clicked="ButtonClicked"/>
+        <Label  x:Name ="MainLabel"  
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+
+     </StackLayout>
+</ContentPage>

@@ -1,0 +1,16 @@
+F:\xamarin\App4\App4\App4\bin\Release\App4.dll
+F:\xamarin\App4\App4\App4\bin\Release\App4.pdb
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Core.dll
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Platform.dll
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Xaml.dll
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Core.pdb
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Core.xml
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Platform.pdb
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Xaml.pdb
+F:\xamarin\App4\App4\App4\bin\Release\Xamarin.Forms.Xaml.xml
+F:\xamarin\App4\App4\App4\obj\Release\App4.csprojResolveAssemblyReference.cache
+F:\xamarin\App4\App4\App4\obj\Release\App4.csproj.CoreCompileInputs.cache
+F:\xamarin\App4\App4\App4\obj\Release\App4.MainPage.xaml.g.cs
+F:\xamarin\App4\App4\App4\obj\Release\App4.App.xaml.g.cs
+F:\xamarin\App4\App4\App4\obj\Release\App4.dll
+F:\xamarin\App4\App4\App4\obj\Release\App4.pdb
